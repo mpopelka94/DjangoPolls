@@ -1,0 +1,14 @@
+li a {
+    color: green;
+}
+body {
+    background: white url("images/me.jpg") no-repeat;
+
+}
+h1, h2, li, li a{
+    color: #C25100;
+    font-size: x-large;
+}
+body {
+    padding-left: 15px;
+}
